@@ -1,3 +1,6 @@
+![download](https://github.com/user-attachments/assets/171a263a-49e6-4c38-8d5e-867610401bd5)
+
+
 **What the project does?** 
 - This project is a simple countdown timer. 
 
